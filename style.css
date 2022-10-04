@@ -1,15 +1,19 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  Font-Family: 'Noto Serif', Serif;
   font-size: 16px;
   line-height: 1;
 }
 
-textarea{
+h1 {
+  font-family: 'Varela Round', sans-serif;
+}
+
+textarea {
   background: transparent;
   border: none;
   resize: none;
   color: #000000;
-  border-left: 1px solid black;
+  border-left: 1px solid #88898C;
   padding: 10px;
 }
 
@@ -18,14 +22,14 @@ textarea{
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 10px solid #88898C;
 }
 
-.description{
+.description {
   white-space: pre-wrap;
 }
 
-.time-block{
+.time-block {
   text-align: center;
   border-radius: 15px;
 }
@@ -39,33 +43,33 @@ textarea{
 .hour {
   background-color: #ffffff;
   color: #000000;
-  border-top: 1px dashed #000000;
+  border-top: 1px dashed #88898C;
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #F2EDDC;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #D96A29;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #69AFBF;
   color: white;
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border: 1px solid #88898C;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: #152C40;
   color: white;
 }
 
 .saveBtn i:hover {
-  font-size: 20px;
+  font-size: 25px;
   transition: all .3s ease-in-out;
 }
