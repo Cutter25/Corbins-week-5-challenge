@@ -3,4 +3,5 @@ Hello User! I was tasked with creating an daily planner for a busy business pers
 
 https://cutter25.github.io/Corbins-weekly-planner/
 
-![Screen Shot 2022-10-23 at 8 28 18 PM](https://user-images.githubusercontent.com/111820384/197426283-7f663cba-143f-4a73-a6ac-e08a50bea2eb.png)
+
+![Screen Shot 2022-10-26 at 11 17 56 PM](https://user-images.githubusercontent.com/111820384/198183141-6ac16994-eee4-484b-a002-191f8212369e.png)
